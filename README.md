@@ -30,9 +30,7 @@ Create a support method that returns boolean indicating if a character is vowel 
 In addition to the requirements for the C and B versions, output a list of all consecutively repeated characters. Consider using `StringBuilder`. Beware of `StringIndexOutOfBoundException`s: before you access a character by index, make sure the index is less than the length of the String.
 
 ### Example Input
-'''
-Some people raise raccoons for their pelts. A raccoon's home is called a nook. The person who cleans and tidies up the raccoonnooks is called the raccoonnookkeeper. Real word! l33t. 
-'''
+```Some people raise raccoons for their pelts. A raccoon's home is called a nook. The person who cleans and tidies up the raccoonnooks is called the raccoonnookkeeper. Real word! l33t.```
 ### Example Output
 ```
 vowels = 59
