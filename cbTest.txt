@@ -1,0 +1,1 @@
+This String has vowels and 12345 digits. 
