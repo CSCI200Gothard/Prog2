@@ -35,7 +35,7 @@ In addition to the requirements for the C and B versions, output a list of all c
 ```
 vowels = 59
 upper = 4
-digits = 0
+digits = 2
 whitespace = 29
 repeated characters: c o c o l o c o n o l c o n o k e 3
 ```
